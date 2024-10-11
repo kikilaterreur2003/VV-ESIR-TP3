@@ -52,4 +52,3 @@ Use the following steps to design the test suite:
 Use the project in [tp3-date](../code/tp3-date) to complete this exercise.
 
 ## Answer
-

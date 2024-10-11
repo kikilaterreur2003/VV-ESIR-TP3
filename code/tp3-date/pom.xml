@@ -32,6 +32,10 @@
                 <groupId>org.pitest</groupId>
                 <artifactId>pitest-maven</artifactId>
                 <version>1.5.2</version>
+                 <configuration>
+                    <skipPitest>false</skipPitest>
+ 
+                </configuration>
                 <dependencies>
                     <dependency>
                         <groupId>org.pitest</groupId>
